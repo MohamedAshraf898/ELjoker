@@ -24,9 +24,9 @@
   --jetly-gray-rgb: 121, 129, 124;
   --jetly-white: #ffffff;
   --jetly-white-rgb: 255, 255, 255;
-  --jetly-base: #a79132;
+  --jetly-base: #f56100;
   --jetly-base-rgb: 167, 145, 50;
-  --jetly-black: #123821;
+  --jetly-black: #42218a;
   --jetly-black-rgb: 18, 56, 33;
   --jetly-primary: #f8f7f1;
   --jetly-primary-rgb: 248, 247, 241;
@@ -510,15 +510,7 @@ ul {
   padding: 8px 0;
 }
 
-.main-menu__search-cart-box:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: -30px;
-  width: 1px;
-  background-color: rgba(var(--jetly-white-rgb), .10);
-}
+
 
 .main-menu__search-box {
   position: relative;
