@@ -4064,7 +4064,7 @@ ul {
   bottom: 0;
   left: 0;
   right: 50px;
-  background-color: rgba(var(--jetly-black-rgb), .90);
+  background-color: #42218a;
   padding: 26px 40px 28px;
   z-index: 2;
 }
