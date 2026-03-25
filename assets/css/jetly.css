@@ -6305,7 +6305,7 @@ ul {
 
 .about-three__img>img {
   width: 100%;
-  border-top-left-radius: 130px;
+  border-top-right-radius: 130px;
 }
 
 .about-three__experience {
