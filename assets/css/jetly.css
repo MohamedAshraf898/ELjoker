@@ -1795,7 +1795,7 @@ ul {
 
 .main-menu-three .main-menu__list>li>a,
 .stricky-header.main-menu-three .main-menu__list>li>a {
-  color: var(--jetly-gray);
+  color: var(--jetly-black);
   font-weight: 500;
 }
 
