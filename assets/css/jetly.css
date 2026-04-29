@@ -34,6 +34,13 @@
 
 }
 
+@media (max-width: 768px) {
+  .news-details__content img {
+    width: 330px;
+
+  }
+}
+
 .row {
   --bs-gutter-x: 30px;
 }
