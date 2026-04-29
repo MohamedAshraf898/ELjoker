@@ -41,6 +41,20 @@
   }
 }
 
+@media (max-width: 331px) {
+  .news-details__content img {
+    width: 330px;
+
+  }
+}
+
+@media (max-width: 800px) {
+  .news-details__content img {
+    width: 330px;
+
+  }
+}
+
 .row {
   --bs-gutter-x: 30px;
 }
