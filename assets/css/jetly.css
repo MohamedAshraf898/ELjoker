@@ -40,6 +40,12 @@
 
 }
 
+.news-details__content img {
+  padding-bottom: 30px;
+  ;
+
+}
+
 .row {
   --bs-gutter-x: 30px;
 }
