@@ -17,6 +17,17 @@
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
+@font-face {
+  font-family: "true-light";
+  src: url(../truearabic-regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'true-light' !important;
+}
+
 :root {
   --jetly-font: 'DM Sans', sans-serif;
   --jetly-reey-font: "reeyregular";
