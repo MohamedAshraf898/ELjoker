@@ -7357,7 +7357,7 @@ ul {
   text-transform: uppercase;
   background-color: var(--jetly-white);
   color: var(--jetly-black);
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   padding: 15px 4px;
 }
 
