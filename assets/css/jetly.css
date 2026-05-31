@@ -316,7 +316,6 @@ ul {
   color: var(--jetly-base);
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
   z-index: 1;
 }
 
