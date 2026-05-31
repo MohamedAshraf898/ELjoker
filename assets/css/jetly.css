@@ -7351,8 +7351,7 @@ ul {
 .thm-breadcrumb li {
   position: relative;
   font-size: 14px;
-  -webkit-transition: all 500ms ease;
-  transition: all 500ms ease;
+
   font-weight: 700;
   text-transform: uppercase;
   background-color: var(--jetly-white);
