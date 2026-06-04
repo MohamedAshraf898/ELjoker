@@ -7382,7 +7382,6 @@ ul {
   font-weight: 700;
   text-transform: uppercase;
   color: var(--jetly-black);
-  letter-spacing: 0.1em;
 }
 
 .thm-breadcrumb li:hover a {
